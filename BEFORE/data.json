@@ -1,0 +1,92 @@
+[
+    {
+        "id" : 0,
+        "email" : "rambahadur@gmail.com",
+        "firstName": "Ram",
+        "lastName": "Bahadur",
+        "dateBirth": "1990-01-15",
+        "startDate": "2020-06-01",
+        "isActive": true
+    },
+    {
+        "id" : 1,
+        "email" : "shyamchhetri@gmail.com",
+        "firstName": "Shyam",
+        "lastName": "Chhetri",
+        "dateBirth": "1988-03-22",
+        "startDate": "2019-09-15",
+        "isActive": false
+    },
+    {
+        "id" : 2,
+        "email" : "harishyam@gmail.com",
+        "firstName": "Hari",
+        "lastName": "Shyam",
+        "dateBirth": "1992-07-10",
+        "startDate": "2021-03-10",
+        "isActive": true
+    },
+    {
+        "id" : 3,
+        "email" : "santohbhandari@gmail.com",
+        "firstName": "Santosh",
+        "lastName": "Bhandari",
+        "dateBirth": "1991-11-05",
+        "startDate": "2020-12-01",
+        "isActive": true
+    },
+    {
+        "id" : 4,
+        "email" : "alicevictor@gmail.com",
+        "firstName": "Alice",
+        "lastName": "Victor",
+        "dateBirth": "1989-05-30",
+        "startDate": "2018-07-20",
+        "isActive": false
+    },
+    {
+        "id" : 5,
+        "email" : "rejinaneupane@gmail.com",
+        "firstName": "Rejina",
+        "lastName": "Neupane",
+        "dateBirth": "1993-09-12",
+        "startDate": "2021-11-15",
+        "isActive": true
+    },
+    {
+        "id" : 6,
+        "email" : "alexram@gmail.com",
+        "firstName": "Alex",
+        "lastName": "Ram",
+        "dateBirth": "1990-02-28",
+        "startDate": "2019-04-25",
+        "isActive": false
+    },
+    {
+        "id" : 7,
+        "email" : "sumandangi@gmail.com",
+        "firstName": "Suman",
+        "lastName": "Dangi",
+        "dateBirth": "1987-12-18",  
+        "startDate": "2018-10-30",
+        "isActive": true
+    },
+    {
+        "id" : 8,
+        "email" : "pramishbhandari@gmail.com",
+        "firstName": "Pramish",
+        "lastName": "Bhandari",
+        "dateBirth": "1994-06-22",
+        "startDate": "2022-01-05",
+        "isActive": true
+    },
+    {
+        "id" : 9,
+        "email" : "kritidevkota@gmail.com",
+        "firstName": "Kriti",
+        "lastName": "Devkota",
+        "dateBirth": "1991-08-14",
+        "startDate": "2020-03-18",
+        "isActive": false
+    }
+]

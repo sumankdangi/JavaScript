@@ -1,0 +1,86 @@
+[
+    {
+        "id": 0,
+        "email": "ab@gmail.com",
+        "firstName": "Ananda",
+        "lastName": "BC",
+        "dateOfBirth": "01-01-1990",
+        "isActive": true,
+        "startDate": "2023-01-01"
+
+    },
+    {
+        "id": 1,
+        "email": "abc@gmail.com",
+        "firstName": "Bharat",
+        "lastName": "Chhetri",
+        "dateOfBirth": "02-02-1992",
+        "isActive": false,
+        "startDate": "2023-02-02"   
+    },
+
+    {
+        "id": 2,
+        "email": "abcd@gmail.com",
+        "firstName": "Chitra",
+        "lastName": "DC",
+        "dateOfBirth": "03-03-1994",
+        "isActive": true,
+        "startDate": "2023-03-03"    
+    
+    },
+    {
+        "id": 3,
+        "email": "abcde@gmail.com",
+        "firstName": "Dadi Ram",
+        "lastName": "Ghimire",
+        "dateOfBirth": "04-04-1996",
+        "isActive": false,
+        "startDate": "2023-04-04"
+    },
+    {
+        "id": 4,
+        "email": "abcdef@gmail.com",
+        "firstName": "Arjun",
+        "lastName": "Bhandari",
+        "dateOfBirth": "05-05-1998",
+        "isActive": true,
+        "startDate": "2023-05-05"
+    },
+    {
+        "id": 5,
+        "email": "abcdefg@gmail.com",
+        "firstName": "Pramish",
+        "lastName": "Bhandari",
+        "dateOfBirth": "06-06-2000",
+        "isActive": false,
+        "startDate": "2023-06-06"
+    },
+    {
+        "id": 6,
+        "email": "abcdefgh@gmail.com",
+        "firstName": "Arun Kumar",
+        "lastName": "Pandey",
+        "dateOfBirth": "07-07-2002",
+        "isActive": true,
+        "startDate": "2023-07-07"
+    },
+    {
+        "id": 7,
+        "email": "abcdefghi@gmail.com",
+        "firstName": "Santosh",
+        "lastName": "Bhandari",
+        "dateOfBirth": "08-08-2004",
+        "isActive": false,
+        "startDate": "2023-08-08"
+    },
+    {
+        "id": 8,
+        "email": "abcdefghij@gmail.com",
+        "firstName": "Bishnu",
+        "lastName": "Pun",
+        "dateOfBirth": "09-09-2006",
+        "isActive": true,
+        "startDate": "2023-09-09"
+    }
+]

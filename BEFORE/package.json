@@ -1,0 +1,16 @@
+{
+  "name": "before",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "functions_implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-modules": "^0.0.1",
+    "prompt-sync": "^4.2.0"
+  }
+}

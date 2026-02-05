@@ -1,0 +1,183 @@
+[
+  {
+    "id": 0,
+    "email": "ab@gmail.com",
+    "firstName": "Ananda",
+    "lastName": "BC",
+    "salaryUSD": 5000,
+    "localCurrency": "INR",
+    "dateOfBirth": "01-01-1990",
+    "isActive": true,
+    "startDate": "2023-01-01"
+  },
+  {
+    "id": 1,
+    "email": "abc@gmail.com",
+    "firstName": "Bharat",
+    "lastName": "Chhetri",
+    "salaryUSD": 6000,
+    "localCurrency": "JPY",
+    "dateOfBirth": "02-02-1992",
+    "isActive": false,
+    "startDate": "2023-02-02"
+  },
+  {
+    "id": 2,
+    "email": "abcd@gmail.com",
+    "firstName": "Chitra",
+    "lastName": "DC",
+    "salaryUSD": 7000,
+    "localCurrency": "CAD",
+    "dateOfBirth": "03-03-1994",
+    "isActive": true,
+    "startDate": "2023-03-03"
+  },
+  {
+    "id": 3,
+    "email": "abcde@gmail.com",
+    "firstName": "Dadi Ram",
+    "lastName": "Ghimire",
+    "salaryUSD": 8000,
+    "localCurrency": "AUD",
+    "dateOfBirth": "04-04-1996",
+    "isActive": false,
+    "startDate": "2023-04-04"
+  },
+  {
+    "id": 4,
+    "email": "abcdef@gmail.com",
+    "firstName": "Arjun",
+    "lastName": "Bhandari",
+    "salaryUSD": 9000,
+    "localCurrency": "YEN",
+    "dateOfBirth": "05-05-1998",
+    "isActive": true,
+    "startDate": "2023-05-05"
+  },
+  {
+    "id": 5,
+    "email": "abcdefg@gmail.com",
+    "firstName": "Pramish",
+    "lastName": "Bhandari",
+    "salaryUSD": 10000,
+    "localCurrency": "EUR",
+    "dateOfBirth": "06-06-2000",
+    "isActive": false,
+    "startDate": "2023-06-06"
+  },
+  {
+    "id": 6,
+    "email": "abcdefgh@gmail.com",
+    "firstName": "Arun Kumar",
+    "lastName": "Pandey",
+    "salaryUSD": 11000,
+    "localCurrency": "GBP",
+    "dateOfBirth": "07-07-2002",
+    "isActive": true,
+    "startDate": "2023-07-07"
+  },
+  {
+    "id": 7,
+    "email": "abcdefghi@gmail.com",
+    "firstName": "Santosh",
+    "lastName": "Bhandari",
+    "salaryUSD": 12000,
+    "localCurrency": "JPY",
+    "dateOfBirth": "08-08-2004",
+    "isActive": false,
+    "startDate": "2023-08-08"
+  },
+  {
+    "id": 8,
+    "email": "abcdefghij@gmail.com",
+    "firstName": "Bishnu",
+    "lastName": "Pun",
+    "salaryUSD": 13000,
+    "localCurrency": "CAD",
+    "dateOfBirth": "09-09-2006",
+    "isActive": true,
+    "startDate": "2023-09-09"
+  },
+  {
+    "id": 9,
+    "email": "abcdefghi@gmail.com",
+    "firstName": "Ashim",
+    "lastName": "Thapa",
+    "salaryUSD": 12000,
+    "localCurrency": "GBP",
+    "dateOfBirth": "08-08-2004",
+    "isActive": false,
+    "startDate": "2023-08-08"
+  },
+  {
+    "id": 10,
+    "email": "abcdefghi@gmail.com",
+    "firstName": "Kamal",
+    "lastName": "KC",
+    "salaryUSD": 12000,
+    "localCurrency": "JPY",
+    "dateOfBirth": "08-08-2004",
+    "isActive": false,
+    "startDate": "2023-08-08"
+  },
+  {
+    "id": 11,
+    "email": "abcdefghi@gmail.com",
+    "firstName": "Naresh",
+    "lastName": "KC",
+    "salaryUSD": 12000,
+    "localCurrency": "USD",
+    "dateOfBirth": "08-08-2004",
+    "isActive": false,
+    "startDate": "2023-08-08"
+  },
+  {
+    "id": 12,
+    "email": "abcdefghi@gmail.com",
+    "firstName": "Jiban",
+    "lastName": "KC",
+    "salaryUSD": 12000,
+    "localCurrency": "YEN",
+    "dateOfBirth": "08-08-2004",
+    "isActive": false,
+    "startDate": "2023-08-08"
+  },
+  {
+    "id": 13,
+    "email": "kjashda@gmail.com",
+    "firstName": "Ramesh",
+    "lastName": "Thapa",
+    "salaryUSD": 14000,
+    "localCurrency": "NPR",
+    "dateOfBirth": "10-10-2008",
+    "isActive": true,
+    "startDate": "2023-10-10"
+  },
+  {
+    "id": 14,
+    "firstName": "Suman Kumar",
+    "lastName": "Dangi",
+    "startDate": "2019-09-30",
+    "isActiveInput": true,
+    "salaryUSD": "100000",
+    "localCurrency": "NPR"
+  },
+  {
+    "id": 15,
+    "firstName": "Suman Kumar",
+    "lastName": "Dangi",
+    "startDate": "2016-11-11",
+    "isActiveInput": false,
+    "salaryUSD": "30000",
+    "localCurrency": "GBP"
+  },
+  {
+    "id": 16,
+    "firstName": "Rejina ",
+    "lastName": "Neupane",
+    "startDate": "2018-05-08",
+    "isActiveInput": true,
+    "salaryUSD": "50000",
+    "localCurrency": "JPY"
+  }
+]
