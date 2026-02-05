@@ -1,1 +1,1 @@
-JavaScript Simple Project Learning Via Practical Approach
+JavaScript Simple Project Learning Via Practical Approach.
