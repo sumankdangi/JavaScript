@@ -188,5 +188,14 @@
     "isActiveInput": true,
     "salaryUSD": "10000",
     "localCurrency": "NPR"
+  },
+  {
+    "id": 18,
+    "firstName": "Narayan",
+    "lastName": "Giri",
+    "startDate": "2022-07-29",
+    "isActiveInput": false,
+    "salaryUSD": "20000",
+    "localCurrency": "NPR"
   }
 ]
