@@ -188,5 +188,14 @@
     "isActiveInput": true,
     "salaryUSD": "10000",
     "localCurrency": "NPR"
+  },
+  {
+    "id": 18,
+    "firstName": "Prikriti",
+    "lastName": "Pudasaini",
+    "startDate": "2021-02-20",
+    "isActiveInput": true,
+    "salaryUSD": "10000",
+    "localCurrency": "INR"
   }
 ]

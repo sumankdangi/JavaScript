@@ -197,5 +197,14 @@
     "isActiveInput": false,
     "salaryUSD": "20000",
     "localCurrency": "NPR"
+  },
+  {
+    "id": 19,
+    "firstName": "Ram ",
+    "lastName": "Bahadur",
+    "startDate": "2023-10-23",
+    "isActiveInput": false,
+    "salaryUSD": "20000",
+    "localCurrency": "GBP"
   }
 ]
