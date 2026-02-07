@@ -1,7 +1,9 @@
 import { promises } from 'node:dns';
 import { get } from 'node:http';
 
-import { loadData, writeData } from './data.js';
+// import { loadData, writeData } from './data.js';
+
+import { getAllEmployees, insertEmployee } from './database.js';
 import { getCurrencyConversionData, getSalary } from './currency.js';
 // Global Variables ................................
 let employees = [];
@@ -33,6 +35,9 @@ function getInput(promptText, validator, transformer) {
 }
 
 const getNextEmployeeID = () => {
+    if(employees.length===0){
+        return 1;
+    }
     const maxID = Math.max(...employees.map(e => e.id));
     return maxID + 1;
 }
@@ -88,6 +93,7 @@ async function addEmployees() {
     employee.id = getNextEmployeeID();
     employee.firstName = getInput("Enter First Name: ", isStringInputValid);
     employee.lastName = getInput("Enter Last Name: ", isStringInputValid);
+    employee.email = getInput("Email :", isStringInputValid)
     let startDateYear = getInput("Enter Start Year (1990-2026): ", isIntegerValid(1990, 2026));
     let startDateMonth = getInput("Enter Start Month (1-12): ", isIntegerValid(1, 12));
     let startDateDay = getInput("Enter Start Day (1-31): ", isIntegerValid(1, 31));
@@ -98,9 +104,9 @@ async function addEmployees() {
 
     console.log('');
 
-
-    employees.push(employee);
-    await writeData(employees);
+    await insertEmployee(employee);
+    // employees.push(employee);
+    // await writeData(employees);
 
 }
 
@@ -166,7 +172,7 @@ const main = async () => {
 
 }
 
-Promise.all([loadData(),getCurrencyConversionData()])
+Promise.all([getAllEmployees(),getCurrencyConversionData()])
     .then(results=>{
         employees = results[0];
         currencyData = results[1];
